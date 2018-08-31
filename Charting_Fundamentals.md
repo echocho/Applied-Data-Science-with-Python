@@ -15,3 +15,9 @@
 
 # Animations
 1. FuncAnimation
+
+# Interactivity
+1. interactivity depends of backend spport
+
+## Pick Events
+Allow you to respond when the user actually click on a visual element in the figure.
