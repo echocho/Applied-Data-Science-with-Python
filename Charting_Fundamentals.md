@@ -59,8 +59,23 @@ A collection of data from part of the population
 4. Cluster sample
 
 ## Error Bars
+### Definition
 >Represent the uncertainty or variation of the corresponding coordinate of the point. 
 >When standard deviation error bars overlap quite a bit, it's a clue that the *difference is not statistically significant*. 
 >If error bars overlap even less, it's a clue that the *different is probably not statistically significant*.
 > If error bars do not over lap, it's a clue that the *differnece may be significant*.
 [Reference](https://www.biologyforlife.com/interpreting-error-bars.html)
+
+### Types
+#### Standard Deviation
+How uch the values in each data group tend to deviate from thier mean.
+
+#### Standard Error
+Used when one wants to compare one mean to another.
+
+It reports the varability i the means of data groups.
+
+In normal distribution, SE = SD / sqrt(n)
+
+#### Confidence intervals
+Assumption on data distribution type is not needed.
