@@ -78,4 +78,8 @@ It reports the varability i the means of data groups.
 In normal distribution, SE = SD / sqrt(n)
 
 #### Confidence intervals
-Assumption on data distribution type is not needed.
+1. Assumption on data distribution type is not needed.
+
+2. If repeated samples were taken and the 95% confidence interval was computed for each sample, 95% of the intervals would contain the population mean.
+
+3. 
