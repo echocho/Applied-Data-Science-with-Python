@@ -1,0 +1,13 @@
+Prerequisites
+In order to be successful in this course, you will need to know how to program in Python. The expectation is that you have completed Introduction to Data Science in Python and Applied Plotting, Charting & Data Representation in Python, so that you are familiar with the numpy and pandas Python libraries for data manipulation, and matplotlib for plotting.
+
+Week by week
+In Module One, you will be introduced to basic machine learning concepts, tasks, and workflow using an example classification problem based on the K-nearest neighbors method, and implemented using the scikit-learn library. This week’s assignment has you work through the process of loading and examining a dataset, training a k-nearest neighbors classifier on the dataset, and then evaluating the accuracy of the classifier and using it to classify new data.
+
+In Module Two, you will delve into a wider variety of supervised learning methods for both classification and regression, learning about the connection between model complexity and generalization performance, the importance of proper feature scaling, and how to control model complexity by applying techniques like regularization to avoid overfitting. In addition to k-nearest neighbors, this week covers linear regression (least-squares, ridge, lasso, and polynomial regression), logistic regression, support vector machines, decision trees, and the use of cross-validation for model evaluation. For this week’s assignment, you’ll explore the relationship between model complexity and generalization performance, by looking at the effect of key parameters on the accuracy of different classification and regression models.
+
+In Module Three, you will cover evaluation and model selection methods that you can use to help understand and optimize the performance of your machine learning models. For this week’s assignment, you will train a classifier to detect fraudulent financial transactions, analyze its performance with different evaluation metrics, and then optimize the classifier’s performance based on different evaluation metrics, depending on the goals of the detection task (e.g. to minimize false positives vs false negatives).
+
+In Module Four, you will cover more advanced supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks (with an optional summary on deep learning). You will also learn about the critical problem of data leakage in machine learning and how to detect and avoid it. The final assignment brings everything together: you will design features for, and build your own classifier on, a prediction problem on a complex real-world dataset.
+
+
